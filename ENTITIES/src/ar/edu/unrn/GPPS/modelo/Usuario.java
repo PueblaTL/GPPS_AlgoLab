@@ -1,4 +1,4 @@
-package ar.edu.unrn.seminario.modelo;
+package ar.edu.unrn.GPPS.modelo;
 
 public class Usuario {
 	private String usuario;

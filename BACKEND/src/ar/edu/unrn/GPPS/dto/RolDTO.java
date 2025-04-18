@@ -1,4 +1,4 @@
-package ar.edu.unrn.seminario.dto;
+package ar.edu.unrn.GPPS.dto;
 
 public class RolDTO {
 

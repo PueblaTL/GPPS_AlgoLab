@@ -1,4 +1,4 @@
-package ar.edu.unrn.seminario.gui;
+package ar.edu.unrn.GPPS.gui;
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
@@ -17,8 +17,8 @@ import javax.swing.border.EmptyBorder;
 import javax.swing.border.EtchedBorder;
 import javax.swing.table.DefaultTableModel;
 
-import ar.edu.unrn.seminario.api.IApi;
-import ar.edu.unrn.seminario.dto.UsuarioDTO;
+import ar.edu.unrn.GPPS.api.IApi;
+import ar.edu.unrn.GPPS.dto.UsuarioDTO;
 
 public class ListadoUsuario extends JFrame {
 

@@ -1,4 +1,4 @@
-package ar.edu.unrn.seminario.gui;
+package ar.edu.unrn.GPPS.gui;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
@@ -14,8 +14,8 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.border.EmptyBorder;
 
-import ar.edu.unrn.seminario.api.IApi;
-import ar.edu.unrn.seminario.dto.RolDTO;
+import ar.edu.unrn.GPPS.api.IApi;
+import ar.edu.unrn.GPPS.dto.RolDTO;
 
 public class AltaUsuario extends JFrame {
 

@@ -1,10 +1,10 @@
-package ar.edu.unrn.seminario.main;
+package ar.edu.unrn.GPPS.main;
 
 import java.awt.EventQueue;
 
-import ar.edu.unrn.seminario.api.IApi;
-import ar.edu.unrn.seminario.api.MemoryApi;
-import ar.edu.unrn.seminario.gui.VentanaPrincipal;
+import ar.edu.unrn.GPPS.api.IApi;
+import ar.edu.unrn.GPPS.api.MemoryApi;
+import ar.edu.unrn.GPPS.gui.VentanaPrincipal;
 
 public class Main {
 

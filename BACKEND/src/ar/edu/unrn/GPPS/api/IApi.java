@@ -1,9 +1,9 @@
-package ar.edu.unrn.seminario.api;
+package ar.edu.unrn.GPPS.api;
 
 import java.util.List;
 
-import ar.edu.unrn.seminario.dto.RolDTO;
-import ar.edu.unrn.seminario.dto.UsuarioDTO;
+import ar.edu.unrn.GPPS.dto.RolDTO;
+import ar.edu.unrn.GPPS.dto.UsuarioDTO;
 
 public interface IApi {
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BACKEND/BACKEND.iml" filepath="$PROJECT_DIR$/BACKEND/BACKEND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COMMONS/COMMONS.iml" filepath="$PROJECT_DIR$/COMMONS/COMMONS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ENTITIES/ENTITIES.iml" filepath="$PROJECT_DIR$/ENTITIES/ENTITIES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FRONTEND/FRONTEND.iml" filepath="$PROJECT_DIR$/FRONTEND/FRONTEND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GPPS_AlgoLab.iml" filepath="$PROJECT_DIR$/.idea/GPPS_AlgoLab.iml" />
+    </modules>
+  </component>
+</project>

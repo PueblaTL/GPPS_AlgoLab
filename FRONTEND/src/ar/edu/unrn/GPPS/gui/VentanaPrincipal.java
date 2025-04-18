@@ -1,4 +1,4 @@
-package ar.edu.unrn.seminario.gui;
+package ar.edu.unrn.GPPS.gui;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
@@ -12,8 +12,8 @@ import javax.swing.JMenuItem;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
-import ar.edu.unrn.seminario.api.IApi;
-import ar.edu.unrn.seminario.api.MemoryApi;
+import ar.edu.unrn.GPPS.api.IApi;
+import ar.edu.unrn.GPPS.api.MemoryApi;
 
 public class VentanaPrincipal extends JFrame {
 
